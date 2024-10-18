@@ -1,12 +1,26 @@
-#### 열공하자
-## 휴학생 최유경 입니다 😁
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Modak&size=40&duration=3000&pause=800&color=EEEEEE&center=true&vCenter=true&width=500&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia!;Hello%2C+World!+I'm+Jia!](https://readme-typing-svg.demolab.com?font=Modak&size=50&pause=1000&color=DDCCEE&center=true&vCenter=true&width=435&lines=Welcome+To" /> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Modak&size=40&duration=3000&pause=800&color=EEEEEE&center=true&vCenter=true&width=500&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia!;Hello%2C+World!+I'm+Jia!](https://readme-typing-svg.demolab.com?font=Modak&size=50&pause=1000&color=DDCCEE&center=true&vCenter=true&width=435&lines=Welcome+To](https://readme-typing-svg.demolab.com?font=Modak&size=45&pause=1000&color=BBBBDD&center=true&vCenter=true&width=435&lines=!+Yugyeong+Github+!" /><br>
 
-<br>**소개**  
-- 💬 저는 게임 개발을 목표로 하고 있어요
-- 🌱 게임 개발 어린이
-- ⚡ 휴학했기에 열심히 공부합니다 :)
+---  
 
-<!--
+<strong>About Me</strong><br>
+다양한 게임과 함께 울고 웃으며 많은 추억을 쌓아온, 그리고 이제는 게임 프로그래머를 준비하는 휴학생🐣<br>
+🥊 열심히 공부해서 2025년 하반기에 취업하기 🥊
+<br><br>
+
+### 📖 Studying
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=FFFFFF"><br>
+
+### 💻 Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUgyeong-Choi&layout=compact&theme=onedark)
+  
+### 🎮 Steam Profile
+![YUKYO2](https://steam-stat.vercel.app/api?profileName=YuKyo2)
+
+
 방문자 수  
 <a href="https://github.com/YUgyeong-Choi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYUgyeong-Choi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
--->
+
+</div>
